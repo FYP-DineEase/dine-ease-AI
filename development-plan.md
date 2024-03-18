@@ -5,5 +5,3 @@
 # Sentiment Analysis based on user reviews 
 # Use the reviews to recommend restaurants
 # Use Vector space model with restaurant name indices
-
-# Read users from restaurant users so it doesnt get duplicated
